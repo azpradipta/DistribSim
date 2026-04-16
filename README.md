@@ -1,4 +1,4 @@
-# DistribSim - Tugas 2 — Mata Kuliah Sistem Paralel & Terdistribusi
+# DistribSim - Tugas 2 — Simulasi Interaktif Model Komunikasi dalam Sistem Terdistribusi 
 
 **Simulasi Interaktif Model Komunikasi Sistem Terdistribusi**
 
